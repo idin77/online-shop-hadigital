@@ -1,0 +1,6 @@
+{
+  "name": "HADIGITAL",
+  "description": "Premium Digital Solutions & Real-Time Animated Video Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
